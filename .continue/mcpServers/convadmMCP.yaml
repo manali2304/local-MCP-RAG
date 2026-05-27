@@ -1,0 +1,8 @@
+name: ConversionAdmin MCP
+version: 0.0.1
+schema: v1
+mcpServers:
+  ConversionAdmin:
+    command: node
+    args:
+      - "D:/work_dsi/My Learnings/Projects/ConversionAdmin-RAG-MCP/server.js"
